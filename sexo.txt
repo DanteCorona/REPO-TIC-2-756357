@@ -1,1 +1,2 @@
-Linea 1 OSCAR
+Linea 1 OSCAR papuconflicto
+Linea 2 conflicto commits
