@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Linea 1 OSCAR papuconflicto
 Linea 2 conflicto commits
+=======
+Linea 1 SergioPro
+Linea 2 Sergio Promax
+
+>>>>>>> f28a7af95d5633737be1bc4845228b9d7ab88f67
